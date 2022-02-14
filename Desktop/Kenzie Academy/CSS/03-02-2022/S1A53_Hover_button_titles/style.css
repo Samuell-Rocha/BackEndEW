@@ -1,0 +1,33 @@
+*{
+    border: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgb(3, 83, 148);
+    
+    
+}
+ul{
+    margin: auto;
+}
+
+li{
+    background-color: aliceblue;
+    display: inline-block;
+    list-style: none;
+    padding: 10px 13vh;
+    margin: 12px;
+    border: 1px black solid;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+li:hover{
+    background-color: rgb(134, 134, 248);
+    font-style: serif;
+}
+
